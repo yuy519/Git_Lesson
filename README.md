@@ -2,4 +2,5 @@
 This repo is intended to demonstrate using Git
 Edited by DataTroy
 Re-edited by RStudent2019
+Zedrek Farrell
 Nick Stotts 
